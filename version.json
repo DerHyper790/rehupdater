@@ -1,10 +1,4 @@
 {
   "version": "1.0.1",
-  "files": [
-    {
-      "url": "Six-Reh-Setup.exe",
-      "sha512": "DcWvPTC9FPmZSCfvNkt5edTrOQEfS40fH3o8n83xk2WWMq6VJia8xAzdARQcqRjWaKZcvUiScE/buidyYsUt1Q=="
-    }
-  ],
-  "path": "Six-Reh-Setup.exe"
+  "url": "https://github.com/DerHyper790/rehupdater/releases/download/Update/Six.Reh.Hub.exe"
 }
