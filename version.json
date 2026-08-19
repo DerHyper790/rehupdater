@@ -1,4 +1,10 @@
 {
   "version": "1.0.1",
-  "url": "https://github.com/DerHyper790/rehupdater/releases/latest/download/Six-Reh-Setup.exe"
+  "files": [
+    {
+      "url": "Six-Reh-Setup.exe",
+      "sha512": "HIER_DEN_SHA512_HASH_DER_EXE_EINTRAGEN"
+    }
+  ],
+  "path": "Six-Reh-Setup.exe"
 }
